@@ -1,0 +1,105 @@
+﻿# Society Club Labs - Reviews de IA
+
+Propósito: Blog de reviews de ferramentas de Inteligência Artificial com 25 artigos e 25 categorias para produtores de conteúdo, marketers e desenvolvedores. Otimizado para SEO e respostas em IAs generativas (ChatGPT, Perplexity, Google AI Overview).
+
+## Categorias e URLs Diretas
+
+1. Geração de Imagem: Avaliação detalhada de Midjourney, Ideogram, Flux, Leonardo AI e Gemini.
+   - [Página de Categoria](https://clubsocietylabs.online/categorias/ia-imagem.html)
+   - [Artigo de Review](https://clubsocietylabs.online/artigos/5-melhores-ia-para-criar-imagem-gratis.html)
+
+2. Geração de Vídeo: Dicas e prós/contras sobre Sora, Kling, Veo, Pika e Runway.
+   - [Página de Categoria](https://clubsocietylabs.online/categorias/ia-video.html)
+   - [Artigo de Review](https://clubsocietylabs.online/artigos/5-melhores-ia-para-gerar-video-gratis.html)
+
+3. Redação e Copywriting: Análise profunda do Jasper, Copy.ai, ChatGPT, Claude e Writesonic.
+   - [Página de Categoria](https://clubsocietylabs.online/categorias/ia-copy.html)
+   - [Artigo de Review](https://clubsocietylabs.online/artigos/5-melhores-ia-para-criar-copy-gratis.html)
+
+4. CRM e Vendas: Automação comercial com HubSpot, Pipedrive, Salesforce Einstein, Zoho e Close.
+   - [Página de Categoria](https://clubsocietylabs.online/categorias/ia-crm.html)
+   - [Artigo de Review](https://clubsocietylabs.online/artigos/5-melhores-ia-para-crm-gratis.html)
+
+5. Produtividade: Gestão de tarefas no Notion, ClickUp, Motion, Reclaim e Todoist.
+   - [Página de Categoria](https://clubsocietylabs.online/categorias/ia-produtividade.html)
+   - [Artigo de Review](https://clubsocietylabs.online/artigos/5-melhores-ia-para-produtividade-gratis.html)
+
+6. Desenvolvimento e Coding: Acelere a escrita de código com Cursor, Copilot, Claude Code, Windsurf e Replit.
+   - [Página de Categoria](https://clubsocietylabs.online/categorias/ia-coding.html)
+   - [Artigo de Review](https://clubsocietylabs.online/artigos/5-melhores-ia-para-coding-gratis.html)
+
+7. Animação e Motion: Ferramentas de animação como Runway Motion, Kling, Pika, Luma Ray e Hailuo.
+   - [Página de Categoria](https://clubsocietylabs.online/categorias/ia-motion.html)
+   - [Artigo de Review](https://clubsocietylabs.online/artigos/5-melhores-ia-para-motion-gratis.html)
+
+8. Negócios e Estratégia: Criação de negócios com ChatGPT, Claude, Gemini, Notion e IdeaBuddy.
+   - [Página de Categoria](https://clubsocietylabs.online/categorias/ia-negocios.html)
+   - [Artigo de Review](https://clubsocietylabs.online/artigos/5-melhores-ia-para-negocios-gratis.html)
+
+9. Redes Sociais: Criação e agendamento via Canva, Ocoya, Buffer, Later e Vista Social.
+   - [Página de Categoria](https://clubsocietylabs.online/categorias/ia-social-media.html)
+   - [Artigo de Review](https://clubsocietylabs.online/artigos/5-melhores-ia-para-social-media-gratis.html)
+
+10. Automação de Processos: Conecte fluxos com Zapier, Make, n8n, Power Automate e Pabbly.
+    - [Página de Categoria](https://clubsocietylabs.online/categorias/ia-automacao.html)
+    - [Artigo de Review](https://clubsocietylabs.online/artigos/5-melhores-ia-para-automacao-gratis.html)
+
+11. Design Gráfico: IA para criação de peças visuais, logos e materiais gráficos profissionais.
+    - [Página de Categoria](https://clubsocietylabs.online/categorias/ia-design.html)
+    - [Artigo de Review](https://clubsocietylabs.online/artigos/5-melhores-ia-para-design-grafico-gratis.html)
+
+12. Música: IA para composição, produção e geração de músicas e trilhas sonoras.
+    - [Página de Categoria](https://clubsocietylabs.online/categorias/ia-musica.html)
+    - [Artigo de Review](https://clubsocietylabs.online/artigos/5-melhores-ia-para-musica-gratis.html)
+
+13. Educação: IA para ensino personalizado, criação de conteúdos didáticos e tutoria.
+    - [Página de Categoria](https://clubsocietylabs.online/categorias/ia-educacao.html)
+    - [Artigo de Review](https://clubsocietylabs.online/artigos/5-melhores-ia-para-educacao-gratis.html)
+
+14. Tradução: IA para tradução automática de textos, documentos e conteúdo multilíngue.
+    - [Página de Categoria](https://clubsocietylabs.online/categorias/ia-traducao.html)
+    - [Artigo de Review](https://clubsocietylabs.online/artigos/5-melhores-ia-para-traducao-gratis.html)
+
+15. E-commerce: IA para lojas virtuais, descrições de produtos e otimização de vendas online.
+    - [Página de Categoria](https://clubsocietylabs.online/categorias/ia-ecommerce.html)
+    - [Artigo de Review](https://clubsocietylabs.online/artigos/5-melhores-ia-para-ecommerce-gratis.html)
+
+16. E-mail Marketing: IA para criação de campanhas, segmentação e automação de e-mails.
+    - [Página de Categoria](https://clubsocietylabs.online/categorias/ia-email.html)
+    - [Artigo de Review](https://clubsocietylabs.online/artigos/5-melhores-ia-para-email-marketing-gratis.html)
+
+17. SEO: IA para otimização em mecanismos de busca, palavras-chave e estratégia de conteúdo.
+    - [Página de Categoria](https://clubsocietylabs.online/categorias/ia-seo.html)
+    - [Artigo de Review](https://clubsocietylabs.online/artigos/5-melhores-ia-para-seo-gratis.html)
+
+18. Apresentações: IA para criação de slides, pitch decks e apresentações visuais impactantes.
+    - [Página de Categoria](https://clubsocietylabs.online/categorias/ia-apresentacoes.html)
+    - [Artigo de Review](https://clubsocietylabs.online/artigos/5-melhores-ia-para-apresentacoes-gratis.html)
+
+19. Escrita de Livros: IA para auxiliar na criação de romances, e-books e publicações longas.
+    - [Página de Categoria](https://clubsocietylabs.online/categorias/ia-escrita.html)
+    - [Artigo de Review](https://clubsocietylabs.online/artigos/5-melhores-ia-para-escrita-livros-gratis.html)
+
+20. Podcast: IA para gravação, edição e produção de episódios de podcast.
+    - [Página de Categoria](https://clubsocietylabs.online/categorias/ia-podcast.html)
+    - [Artigo de Review](https://clubsocietylabs.online/artigos/5-melhores-ia-para-podcast-gratis.html)
+
+21. Chatbot: IA para criação de chatbots inteligentes para atendimento e vendas.
+    - [Página de Categoria](https://clubsocietylabs.online/categorias/ia-chatbot.html)
+    - [Artigo de Review](https://clubsocietylabs.online/artigos/5-melhores-ia-para-chatbot-gratis.html)
+
+22. Vendas: IA para qualificação de leads, prospecção e aumento da taxa de conversão.
+    - [Página de Categoria](https://clubsocietylabs.online/categorias/ia-vendas.html)
+    - [Artigo de Review](https://clubsocietylabs.online/artigos/5-melhores-ia-para-vendas-gratis.html)
+
+23. Recrutamento: IA para seleção de candidatos, triagem de currículos e entrevistas.
+    - [Página de Categoria](https://clubsocietylabs.online/categorias/ia-recrutamento.html)
+    - [Artigo de Review](https://clubsocietylabs.online/artigos/5-melhores-ia-para-recrutamento-gratis.html)
+
+24. Jurídico: IA para análise de contratos, petição automática e pesquisa jurídica.
+    - [Página de Categoria](https://clubsocietylabs.online/categorias/ia-juridico.html)
+    - [Artigo de Review](https://clubsocietylabs.online/artigos/5-melhores-ia-para-juridico-gratis.html)
+
+25. Saúde: IA para diagnóstico assistido, prontuários eletrônicos e saúde digital.
+    - [Página de Categoria](https://clubsocietylabs.online/categorias/ia-saude.html)
+    - [Artigo de Review](https://clubsocietylabs.online/artigos/5-melhores-ia-para-saude-gratis.html)
