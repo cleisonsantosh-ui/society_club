@@ -107,7 +107,7 @@ header {
   font-family: var(--font-title);
   font-size: 1.25rem;
   font-weight: 600;
-  color: #fff;
+  color: var(--text);
   text-decoration: none;
   letter-spacing: -0.01em;
 }
@@ -134,7 +134,7 @@ header {
 
 .nav-link:hover,
 .nav-link.active {
-  color: #fff;
+  color: var(--primary);
 }
 
 .nav-cta {
@@ -158,7 +158,7 @@ header {
   display: none;
   background: none;
   border: none;
-  color: #fff;
+  color: var(--text);
   font-size: 1.5rem;
   cursor: pointer;
 }
@@ -325,7 +325,7 @@ header {
 
 .radar-circles .circle {
   position: absolute;
-  border: 1px solid rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(39, 255, 155, 0.06);
   border-radius: 50%;
   top: 50%;
   left: 50%;
@@ -376,7 +376,7 @@ header {
 .breadcrumb li::after {
   content: '/';
   margin-left: 0.5rem;
-  color: rgba(255, 255, 255, 0.15);
+  color: var(--text-muted);
 }
 
 .breadcrumb li:last-child::after {
@@ -701,7 +701,7 @@ tr:hover {
 /* ── See Also ──────────────────────────────── */
 .see-also {
   margin-top: 4rem;
-  background: rgba(255, 255, 255, 0.02);
+  background: rgba(39, 255, 155, 0.02);
   padding: 2rem;
   border-radius: var(--radius-card);
   border: 1px solid var(--border);
@@ -756,7 +756,7 @@ tr:hover {
 
 /* ── AdSense Slots ─────────────────────────── */
 .adsense-slot {
-  background: rgba(11, 23, 20, 0.5);
+  background: rgba(39, 255, 155, 0.03);
   border: 1px dashed rgba(39, 255, 155, 0.2);
   border-radius: var(--radius-card);
   padding: 1.5rem;
@@ -946,7 +946,7 @@ footer {
   padding: 3rem 0;
   margin-top: 5rem;
   background: #000000;
-  color: var(--text-muted);
+  color: #9CA3AF;
 }
 
 .footer-container {
@@ -960,7 +960,7 @@ footer {
 
 .footer-info h3 {
   font-family: var(--font-title);
-  color: var(--text);
+  color: #FFFFFF;
   margin-bottom: 1rem;
   font-size: 1.1rem;
   font-weight: 500;
@@ -968,7 +968,7 @@ footer {
 
 .footer-links h4 {
   font-family: var(--font-title);
-  color: var(--text);
+  color: #FFFFFF;
   margin-bottom: 1.2rem;
   font-size: 0.9rem;
   font-weight: 500;
@@ -984,7 +984,7 @@ footer {
 
 .footer-links ul li a {
   font-family: var(--font-title);
-  color: var(--text-muted);
+  color: #9CA3AF;
   text-decoration: none;
   transition: var(--transition);
   font-size: 0.9rem;
