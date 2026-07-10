@@ -1321,6 +1321,52 @@ footer {
   font-size: 0.8rem;
 }
 
+/* ── Productivity Box ──────────────────────── */
+.productivity-box {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-left: 4px solid var(--primary);
+  border-radius: var(--radius-card);
+  padding: 1.5rem 2rem;
+  margin: 2rem 0;
+}
+
+.productivity-box h3 {
+  font-family: var(--font-title);
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--text);
+  margin-bottom: 0.75rem;
+}
+
+.productivity-box p {
+  color: var(--text-body);
+  font-size: 0.95rem;
+  line-height: 1.7;
+  margin-bottom: 1rem;
+}
+
+.productivity-box ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.productivity-box ul li {
+  position: relative;
+  padding: 0.4rem 0 0.4rem 1.5rem;
+  color: var(--text-body);
+  font-size: 0.9rem;
+}
+
+.productivity-box ul li::before {
+  content: '✓';
+  position: absolute;
+  left: 0;
+  color: var(--primary);
+  font-weight: 700;
+}
+
 /* ── Prompt Box ────────────────────────────── */
 .prompt-box {
   background: var(--bg-card);
