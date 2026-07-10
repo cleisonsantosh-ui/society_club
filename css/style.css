@@ -163,6 +163,53 @@ header {
   cursor: pointer;
 }
 
+/* ── Nav Categories (submenu in category pages) ── */
+.nav-categories {
+  display: flex;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  gap: 0.5rem;
+  list-style: none;
+  padding: 0.75rem 0 0;
+  margin: 0;
+  border-top: 1px solid var(--border);
+  margin-top: 0.75rem;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: thin;
+}
+
+.nav-categories::-webkit-scrollbar {
+  height: 3px;
+}
+
+.nav-categories::-webkit-scrollbar-thumb {
+  background: var(--primary);
+  border-radius: 999px;
+}
+
+.nav-categories li {
+  flex-shrink: 0;
+}
+
+.nav-categories li a {
+  font-family: var(--font-title);
+  font-size: 0.72rem;
+  font-weight: 500;
+  color: var(--text-muted);
+  text-decoration: none;
+  padding: 4px 12px;
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--border);
+  transition: var(--transition);
+  white-space: nowrap;
+}
+
+.nav-categories li a:hover {
+  background: var(--primary);
+  color: #FFFFFF;
+  border-color: var(--primary);
+}
+
 /* ── Buttons ───────────────────────────────── */
 .btn-primary {
   display: inline-block;
